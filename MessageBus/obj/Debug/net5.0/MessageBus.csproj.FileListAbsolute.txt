@@ -1,0 +1,12 @@
+C:\Estudo\MicroServico\MessageBus\bin\Debug\net5.0\MessageBus.deps.json
+C:\Estudo\MicroServico\MessageBus\bin\Debug\net5.0\MessageBus.dll
+C:\Estudo\MicroServico\MessageBus\bin\Debug\net5.0\MessageBus.pdb
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\MessageBus.AssemblyInfoInputs.cache
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\MessageBus.AssemblyInfo.cs
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\MessageBus.csproj.CoreCompileInputs.cache
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\MessageBus.dll
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\ref\MessageBus.dll
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\MessageBus.pdb
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\MessageBus.csproj.AssemblyReference.cache
+C:\Estudo\MicroServico\MessageBus\obj\Debug\net5.0\refint\MessageBus.dll

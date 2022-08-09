@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOcOCu5Y4Mad5TZBjvmdT/EcvMZ56mi9TSweXmGCrWGESTSOuvIZJxwgdFHIrHo15g1Q0Z8YdrW+LiedEg1HeA==",
+  "success": true,
+  "projectFilePath": "C:\\Estudo\\MicroServico\\MessageBus\\MessageBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lmmendes\\.nuget\\packages\\easynetq\\6.5.2\\easynetq.6.5.2.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\lmmendes\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
